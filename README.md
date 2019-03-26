@@ -1,5 +1,9 @@
 # code-ex
 
+## in-console
+
+```
+
 code --install-extension aaron-bond.better-comments
 code --install-extension Angular.ng-template
 code --install-extension christian-kohler.path-intellisense
@@ -30,7 +34,9 @@ code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension thekalinga.bootstrap4-vscode
 code --install-extension zuoez02.tslint-snippets
 
-settings.json
+```
+
+## settings.json
 
 ```
 {
