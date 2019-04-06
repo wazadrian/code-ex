@@ -33,12 +33,15 @@ code --install-extension shinnn.stylelint
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension thekalinga.bootstrap4-vscode
 code --install-extension zuoez02.tslint-snippets
+code --install-extension bierner.markdown-preview-github-styles
+code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension yzane.markdown-pdf
 
 ```
 
 ## settings.json
 
-```
+```json
 {
 	//Prettier
 	"prettier.tslintIntegration": true,
@@ -63,7 +66,7 @@ code --install-extension zuoez02.tslint-snippets
 }
 ```
 
-## Angular:
+## Angular
 
 ### Best
 
